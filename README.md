@@ -24,19 +24,24 @@ Assurez-vous d'avoir les prérequis suivants installés sur votre machine :
         - Système d'exploitation : Windows 10 ou plus
         - Espace requis par le jeu : 170 Mo
 
-Clonez le dépôt GitHub du projet en utilisant la commande suivante :
+Télécharger l'Installer de Slime Runner grâce au lien suivant:
 
-    git clone https://github.com/Sasha697/Plateformer_Game.git
+        https://projetbot.alwaysdata.net/
+        
+Sur le site cliquez sur le bouton Download pour télécharger l'Installer au nom suivant:
 
-Accédez au répertoire du jeu :
+        "Plateformer Game Setup (x86).exe"
 
-    cd Plateformer_game\builds\Windows\Installer
+![image](https://github.com/Sasha697/Plateformer_Game/assets/91870976/ab122eae-5801-4791-a174-2647df5dd424)
 
-Lancez le télechargement du jeu en lancant l'exécutable suivant:
+Une fois le téléchargement terminé lancez l'exécutable
 
-    "Plateformer Game Setup (x86).exe"
-    
-Installer le jeu Plateformer Game dans le dossier de votre choix, vous n'avez plus qu'a lancer l'exécutable "Pleteformer_game.exe" du jeu pour démarrer l'aventure !
+![image](https://github.com/Sasha697/Plateformer_Game/assets/91870976/b6e86a0a-92a9-4c0e-9a69-ac7868243c3d)
+
+Cochez vos préférences d'installation et installer le jeu Plateformer Game dans le dossier de votre choix, vous n'avez plus qu'a lancer l'exécutable "Pleteformer_game.exe" du jeu pour démarrer l'aventure !
+
+![image](https://github.com/Sasha697/Plateformer_Game/assets/91870976/156dc219-9aec-43bc-97c0-590ee5cc3ffa)
+
     
 ## Fonctionnalités
 
