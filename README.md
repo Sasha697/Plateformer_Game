@@ -6,7 +6,7 @@ Bienvenue dans le README de notre jeu de plateforme en pixel art développé par
 
 ## Table des matières
 
-- [Description du jeu](#description du jeu)
+- [Description du jeu](#descriptiondujeu)
 - [Installation](#installation)
 - [Fonctionnalités](#fonctionnalités)
 - [Contributions](#contributions)
