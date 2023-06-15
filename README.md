@@ -42,6 +42,8 @@ Cochez vos préférences d'installation et installer le jeu Plateformer Game dan
 
 ![image](https://github.com/Sasha697/Plateformer_Game/assets/91870976/156dc219-9aec-43bc-97c0-590ee5cc3ffa)
 
+L'ensemble des Scripts du projets sont disponibles sur github les retes des fichier étant trop volumineux n'a pu être déposer sur github
+
     
 ## Fonctionnalités
 
