@@ -57,9 +57,7 @@ Amusez-vous bien et profitez de l'expérience de jeu en pixel art !
 
 ## Contributions
 
-Nous sommes ouverts aux contributions de la communauté pour améliorer notre jeu de plateforme en pixel art. Si vous souhaitez contribuer, ou nous faire pas de vos impressions/ idées d'amélioration n'hésitez pas anous faire part de celle-ci au mail suivant:
-
-        sasha.ly697@gmail.com
+Nous sommes ouverts aux contributions de la communauté pour améliorer notre jeu de plateforme en pixel art. Si vous souhaitez contribuer, ou nous faire pas de vos impressions/ idées d'améliorations n'hésitez pas à nous contacter au mail reseigné dans la rubrique contact.
 
 ## Contact
 
