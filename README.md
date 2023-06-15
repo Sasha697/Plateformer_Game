@@ -1,14 +1,22 @@
 # Pixel Art Plateformer Game
 
-![image](https://github.com/Sasha697/Plateformer_Game/assets/91870976/acd6f952-a3e3-4b9e-ba80-72c869895397)
-
 Bienvenue dans le README de notre jeu de plateforme en pixel art développé par Ubisuft ! Ce document vous fournira les informations nécessaires pour comprendre, exécuter et contribuer à notre projet.
 
-DESCRIPTION DU JEU
+![image](https://github.com/Sasha697/Plateformer_Game/assets/91870976/acd6f952-a3e3-4b9e-ba80-72c869895397)
+
+## Table des matières
+
+- [Description du jeu](#description du jeu)
+- [Installation](#installation)
+- [Fonctionnalités](#fonctionnalités)
+- [Contributions](#contributions)
+- [Contact](#contact)
+
+## Description du jeu
 
 Notre jeu de plateforme en pixel art est un jeu classique où les joueurs contrôlent un personnage pixelisé à travers différents niveaux remplis de défis. Le but est de surmonter les obstacles, et de collecter des objets pour atteindre la fin de chaque niveau. Le jeu propose une esthétique rétro avec des graphismes en pixel art et une musique d'ambiance.
 
-INSTRUCTION D'INSTALLATION
+## Installation
 
 Pour jouer à notre jeu de plateforme en pixel art, suivez les étapes ci-dessous :
 
@@ -30,7 +38,7 @@ Lancez le télechargement du jeu en lancant l'exécutable suivant:
     
 Installer le jeu Plateformer Game dans le dossier de votre choix, vous n'avez plus qu'a lancer l'exécutable "Pleteformer_game.exe" du jeu pour démarrer l'aventure !
     
-INSTRUCTIONS DE JEU
+## Fonctionnalités
 
 Utilisez les touches ESPACE pour sauter ainsi que les fléches directionnelles <- -> de droite et de gauche, ou bien les touches Q et D pour contrôler le personnage et interagir avec le jeu.
 
@@ -42,7 +50,7 @@ Il est aussi possible de quitter le jeu prématurement en appuyant sur les touch
 
 Amusez-vous bien et profitez de l'expérience de jeu en pixel art !
 
-CONTRIBUTIONS
+## Contributions
 
 Nous sommes ouverts aux contributions de la communauté pour améliorer notre jeu de plateforme en pixel art. Si vous souhaitez contribuer, veuillez suivre les étapes ci-dessous :
 
@@ -65,7 +73,7 @@ Ouvrez une demande d'extraction (pull request) sur le dépôt d'origine et décr
 
 Nous passerons en revue vos contributions et les fusionnerons si elles sont conformes aux directives du projet.
 
-CONTACT
+## Contact
 
 Si vous avez des questions, des suggestions ou des commentaires concernant notre jeu de plateforme en pixel art, n'hésitez pas à nous contacter à l'adresse suivante :
             
