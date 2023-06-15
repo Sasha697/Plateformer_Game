@@ -57,26 +57,9 @@ Amusez-vous bien et profitez de l'expérience de jeu en pixel art !
 
 ## Contributions
 
-Nous sommes ouverts aux contributions de la communauté pour améliorer notre jeu de plateforme en pixel art. Si vous souhaitez contribuer, veuillez suivre les étapes ci-dessous :
+Nous sommes ouverts aux contributions de la communauté pour améliorer notre jeu de plateforme en pixel art. Si vous souhaitez contribuer, ou nous faire pas de vos impressions/ idées d'amélioration n'hésitez pas anous faire part de celle-ci au mail suivant:
 
-Fork le dépôt GitHub vers votre propre compte.
-
-Créez une branche pour vos modifications :
-
-    git checkout -b nom-de-votre-branche
-
-Effectuez les modifications et améliorations souhaitées.
-
-Testez votre code pour vous assurer qu'il fonctionne correctement.
-
-Committez et poussez vos modifications vers votre fork :
-
-    git commit -m "Description de vos modifications"
-    git push origin nom-de-votre-branche
-
-Ouvrez une demande d'extraction (pull request) sur le dépôt d'origine et décrivez vos modifications en détail.
-
-Nous passerons en revue vos contributions et les fusionnerons si elles sont conformes aux directives du projet.
+        sasha.ly697@gmail.com
 
 ## Contact
 
